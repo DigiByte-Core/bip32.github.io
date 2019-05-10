@@ -58,7 +58,7 @@ BIP32.prototype.init_from_bytes = function(bytes) {
          this.version == BITCOIN_CASH_TESTNET_PRIVATE  ||
          this.version == DOGECOIN_MAINNET_PRIVATE      ||
          this.version == DOGECOIN_TESTNET_PRIVATE      ||
-         this.version == DIGIBYTE_MAINNET_PUBLIC      ||
+         this.version == DIGIBYTE_MAINNET_PRIVATE      ||
          this.version == JUMBUCKS_MAINNET_PRIVATE      ||
          this.version == LITECOIN_MAINNET_PRIVATE      ||
          this.version == LITECOIN_TESTNET_PRIVATE      );
