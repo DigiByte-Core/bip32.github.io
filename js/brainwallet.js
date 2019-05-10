@@ -61,6 +61,15 @@
             bip32_public: DOGECOIN_TESTNET_PUBLIC,
             bip32_private: DOGECOIN_TESTNET_PRIVATE
         },
+        },
+        digibyte_main: {
+            name: "DigiByte",
+            network: "Mainnet",
+            prefix: 0x1e,
+            private_prefix: 0x1e+0x80,
+            bip32_public: DIGIBYTE_MAINNET_PUBLIC,
+            bip32_private: DIGIBYTE_MAINNET_PRIVATE
+        },
         jbs_main: {
             name: "Jumbucks",
             network: "Mainnet",
