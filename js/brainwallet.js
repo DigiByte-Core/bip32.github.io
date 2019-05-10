@@ -61,8 +61,7 @@
             bip32_public: DOGECOIN_TESTNET_PUBLIC,
             bip32_private: DOGECOIN_TESTNET_PRIVATE
         },
-        },
-        digibyte_main: {
+        dgb_main: {
             name: "DigiByte",
             network: "Mainnet",
             prefix: 0x1e,
